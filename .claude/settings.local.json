@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "WebFetch(domain:www.forklift4s.com.my)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "Bash(cp \"C:\\\\Users\\\\huawei\\\\.claude\\\\projects\\\\D--test-vibe-code\\\\51d4e80c-478b-43d9-8de0-bd96047cd836\\\\tool-results\\\\webfetch-1779506265441-6t21o4.png\" \"D:\\\\test_vibe_code\\\\public\\\\logo.png\" && echo \"copied\")",
+      "PowerShell(New-Item -ItemType Directory -Force \"D:\\\\test_vibe_code\\\\public\\\\uploads\")",
+      "PowerShell(New-Item -ItemType File -Force \"D:\\\\test_vibe_code\\\\public\\\\uploads\\\\.gitkeep\")",
+      "Bash(npx tsc *)",
+      "PowerShell(gh --version)",
+      "PowerShell(vercel --version)"
+    ]
+  }
+}

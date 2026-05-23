@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Ahmad Faizal bin Razali",
+    "role": "Operations Manager",
+    "company": "Precision Auto Parts Mfg. Sdn Bhd",
+    "industry": "Manufacturing",
+    "review": "We've been with Expanxion for over 5 years now. Their preventive maintenance programme has cut our forklift downtime by more than 60%. The technicians always arrive on schedule and the service reports are detailed and professional.",
+    "rating": 5
+  },
+  {
+    "id": "2",
+    "name": "Lim Wai Keong",
+    "role": "Warehouse Director",
+    "company": "SwiftLog Distribution Sdn Bhd",
+    "industry": "Logistics",
+    "review": "We rented 8 units from Expanxion for our peak festive season. The machines were delivered on time, in excellent condition, and when one unit had a minor issue, their team resolved it within the same day. Highly recommended.",
+    "rating": 5
+  },
+  {
+    "id": "3",
+    "name": "Rajendran Pillai",
+    "role": "Site Project Manager",
+    "company": "BuildFirst Construction Group",
+    "industry": "Construction",
+    "review": "Expanxion's team understood our site requirements immediately and recommended the right rough-terrain unit. The after-sales service and spare parts availability is excellent. We will definitely use them again.",
+    "rating": 5
+  }
+]

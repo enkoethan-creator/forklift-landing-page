@@ -1,0 +1,15 @@
+# Private settings - never upload these
+.env.local
+.env*.local
+
+# Build output
+.next/
+out/
+
+# Dependencies
+node_modules/
+
+# Misc
+*.tsbuildinfo
+*.png
+.DS_Store

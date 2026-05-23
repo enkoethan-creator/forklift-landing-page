@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Forklift Sales",
+    "desc": "New and used forklifts from trusted brands. We help you find the right capacity, fuel type and mast configuration for your operations — with full warranty and aftersales support.",
+    "tags": ["Electric", "Diesel", "LPG", "Reach Truck", "Pallet Truck"],
+    "icon": "sales",
+    "cta": "Browse Available Units"
+  },
+  {
+    "id": "2",
+    "title": "Forklift Rental",
+    "desc": "Short and long-term rental packages with flexible terms — daily, monthly or project-based. Ideal for peak seasons and project sites without capital investment.",
+    "tags": ["Daily Rental", "Monthly", "Long-term", "Operator Included"],
+    "icon": "rental",
+    "cta": "Check Rental Rates"
+  },
+  {
+    "id": "3",
+    "title": "Service & Maintenance",
+    "desc": "Scheduled preventive maintenance, breakdown repair, and DOSH safety inspections. Our certified technicians respond within 24 hours — minimising your downtime.",
+    "tags": ["Preventive PM", "24hr Breakdown", "Safety Inspection", "On-site"],
+    "icon": "service",
+    "cta": "Book a Service"
+  },
+  {
+    "id": "4",
+    "title": "Spare Parts Supply",
+    "desc": "Genuine and OEM-equivalent spare parts for all major forklift brands. We maintain stock of fast-moving parts and can source specialty items with quick turnaround.",
+    "tags": ["Toyota", "Crown", "Mitsubishi", "Komatsu", "Linde"],
+    "icon": "parts",
+    "cta": "Request Parts"
+  },
+  {
+    "id": "5",
+    "title": "Operator Training",
+    "desc": "DOSH-recognised forklift operator training — theory, practical and assessment. Ensure your team operates safely, legally and confidently.",
+    "tags": ["DOSH Certified", "Theory", "Practical", "Assessment"],
+    "icon": "training",
+    "cta": "Register for Training"
+  },
+  {
+    "id": "6",
+    "title": "Fleet Management",
+    "desc": "End-to-end fleet management for large operations — usage tracking, maintenance scheduling, cost reporting and fleet optimisation advisory.",
+    "tags": ["Usage Report", "Scheduling", "Cost Analysis", "KPI Tracking"],
+    "icon": "fleet",
+    "cta": "Learn More"
+  }
+]
